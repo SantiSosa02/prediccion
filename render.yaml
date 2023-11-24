@@ -2,4 +2,4 @@ build:
   - /opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
 
 start:
-  command: "/opt/render/project/src/.venv/bin/python prediccion.py"
+  command: "python prediccion.py"
